@@ -1,0 +1,2 @@
+# Recommendation-system-using-collaborative-filtering-matrix-factorization-neural-network
+A recommendation system predicts user preferences to suggest items. It mainly uses **content-based filtering** (based on a user’s past behavior) or **collaborative filtering** (based on similar users or items). Because user–item data is large and sparse, **matrix factorization** is commonly used to learn latent features and improve recommendations.
